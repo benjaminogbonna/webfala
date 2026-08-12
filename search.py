@@ -1,2 +1,3 @@
 def search(word):
-    print(f"search here")git
+    """search word for ease find"""
+    print(f"search here")
