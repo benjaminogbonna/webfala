@@ -20,6 +20,8 @@
 | <img src="https://github.com/olanrewajuesther3319.png" width="50"> | Esther Olanrewaju | vendors | [@olanrewajuesther3319](https://github.com/olanrewajuesther3319) |
 | <img src="https://github.com/Olasehindejesutomi.png" width="50"> | Olasehindejesutomi | history| [@Olasehindejesutomi](https://github.com/Olasehindejesutomi) |
 | <img src="https://github.com/username16.png" width="50"> | Lola | Role | [@username16](https://github.com/username16) |
+| <img src="https://github.com/owolabizainab.png" width="50"> | Zainab Owolabi | Product_detail | [@owolabizainab](https://github.com/owolabizainab) |
+| <img src="https://github.com/username18.png" width="50"> | Rahmat | Role | [@username18](https://github.com/username18) |
 | <img src="https://github.com/username17.png" width="50"> | Zainab O | Role | [@username17](https://github.com/username17) |
 | <img src="https://github.com/Rahma-cloud.png" width="50"> | Rahmat Folorunsho | Downloads | [@Rahma-cloud](https://github.com/Rahma-cloud) |
 | <img src="https://github.com/username19.png" width="50"> | Rhoda | Role | [@username19](https://github.com/username19) |
