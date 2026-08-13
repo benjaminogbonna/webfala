@@ -20,7 +20,7 @@
 | <img src="https://github.com/username14.png" width="50"> | Esther O | Role | [@username14](https://github.com/username14) |
 | <img src="https://github.com/username15.png" width="50"> | Tomi | Role | [@username15](https://github.com/username15) |
 | <img src="https://github.com/username16.png" width="50"> | Lola | Role | [@username16](https://github.com/username16) |
-| <img src="https://github.com/username17.png" width="50"> | Zainab O | Role | [@username17](https://github.com/username17) |
+| <img src="https://github.com/owolabizainab.png" width="50"> | Zainab Owolabi | Product_detail | [@owolabizainab](https://github.com/owolabizainab) |
 | <img src="https://github.com/username18.png" width="50"> | Rahmat | Role | [@username18](https://github.com/username18) |
 | <img src="https://github.com/username19.png" width="50"> | Rhoda | Role | [@username19](https://github.com/username19) |
 | <img src="https://github.com/username20.png" width="50"> | Salamat | Role | [@username20](https://github.com/username20) |
