@@ -23,6 +23,6 @@
 | <img src="https://github.com/username17.png" width="50"> | Zainab O | Role | [@username17](https://github.com/username17) |
 | <img src="https://github.com/Rahma-cloud.png" width="50"> | Rahmat Folorunsho | Downloads | [@Rahma-cloud](https://github.com/Rahma-cloud) |
 | <img src="https://github.com/username19.png" width="50"> | Rhoda | Role | [@username19](https://github.com/username19) |
-| <img src="https://github.com/username20.png" width="50"> | Salamat | Role | [@username20](https://github.com/username20) |
+| <img src="https://github.com/salamatsaheed-ux.png" width="50"> | Salamat Saheed | Checkouts | [@salamatsaheed-ux](https://github.com/salamatsaheed-ux) |
 
 ### Please, follow the order and do not mess things up.
