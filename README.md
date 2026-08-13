@@ -1,4 +1,4 @@
-# Webfala Women In AI 2026 Git Collaboration Project
+# Webfala project
 
 ## Contributors
 
