@@ -17,7 +17,7 @@
 | <img src="https://github.com/username11.png" width="50"> | Zainab S | Role | [@username11](https://github.com/username11) |
 | <img src="https://github.com/username12.png" width="50"> | Loveth | Role | [@username12](https://github.com/username12) |
 | <img src="https://github.com/username13.png" width="50"> | Nofisat | Role | [@username13](https://github.com/username13) |
-| <img src="https://github.com/olanrewajuesther3319.png" width="50"> | Esther Olanrewaju | vendors | [@olanrewajuesther3319](https://github.com/olanrewajuesther3319) |
+| <img src="https://github.com/olanrewajuesther3319.png" width="50"> | Esther Olanrewaju | vendors |[@olanrewajuesther3319](https://github.com/olanrewajuesther3319) |
 | <img src="https://github.com/username15.png" width="50"> | Tomi | Role | [@username15](https://github.com/username15) |
 | <img src="https://github.com/username16.png" width="50"> | Lola | Role | [@username16](https://github.com/username16) |
 | <img src="https://github.com/username17.png" width="50"> | Zainab O | Role | [@username17](https://github.com/username17) |
