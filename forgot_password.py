@@ -3,6 +3,4 @@ def forgot_password(email):
 
 def reset_password(token, new_password):
     print(f"Password has been reset using token: {token}. Your")
-
-
-print(f"new password is: {new_password}. Please log in with your new credentials.")
+    
