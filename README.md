@@ -14,7 +14,7 @@
 | <img src="https://github.com/username8.png" width="50"> | Halimat | Role | [@username8](https://github.com/username8) |
 | <img src="https://github.com/username9.png" width="50"> | Hannah | Role | [@username9](https://github.com/username9) |
 | <img src="https://github.com/username10.png" width="50"> | Arafat | Role | [@username10](https://github.com/username10) |
-| <img src="https://github.com/username11.png" width="50"> | Zainab S | Role | [@username11](https://github.com/username11) |
+| <img src="https://github.com/Jawziyyah.png" width="50"> | Zainab Sogbade | Cart| [@Jawziyyah](https://github.com/Jawziyyah) |
 | <img src="https://github.com/username12.png" width="50"> | Loveth | Role | [@username12](https://github.com/username12) |
 | <img src="https://github.com/username13.png" width="50"> | Nofisat | Role | [@username13](https://github.com/username13) |
 | <img src="https://github.com/username14.png" width="50"> | Esther O | Role | [@username14](https://github.com/username14) |
