@@ -6,7 +6,7 @@
 |--------|------|------|--------|
 | <img src="https://github.com/benjaminogbonna.png" width="50"> | Benjamin Ogbonna | Lead | [@benjaminogbonna](https://github.com/benjaminogbonna) |
 | <img src="https://github.com/username2.png" width="50"> | Jemilah  | Role | [@username2](https://github.com/username2) |
-| <img src="https://github.com/username3.png" width="50"> | Adeola | Role | [@username3](https://github.com/username3) |
+| <img src="https://github.com/atandaadeola.png" width="50"> | Adeola Atanda| LogIn | [@atandaadeola](https://github.com/atandaadeola) |
 | <img src="https://github.com/username4.png" width="50"> | Abiola | Role | [@username4](https://github.com/username4) |
 | <img src="https://github.com/username5.png" width="50"> | Damilola | Role | [@username5](https://github.com/username5) |
 | <img src="https://github.com/username6.png" width="50"> | Carina | Role | [@username6](https://github.com/username6) |
