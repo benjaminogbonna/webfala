@@ -5,7 +5,7 @@
 | Avatar | Name | Role | GitHub |
 |--------|------|------|--------|
 | <img src="https://github.com/benjaminogbonna.png" width="50"> | Benjamin Ogbonna | Lead | [@benjaminogbonna](https://github.com/benjaminogbonna) |
-| <img src="https://github.com/username2.png" width="50"> | Jemilah  | Role | [@username2](https://github.com/username2) |
+| <img src="https://github.com/alaojemilah.png" width="50"> | Jemilah Alao | Contact | [@alaojemilah](https://github.com/alaojemilah) |
 | <img src="https://github.com/username3.png" width="50"> | Adeola | Role | [@username3](https://github.com/username3) |
 | <img src="https://github.com/username4.png" width="50"> | Abiola | Role | [@username4](https://github.com/username4) |
 | <img src="https://github.com/username5.png" width="50"> | Damilola | Role | [@username5](https://github.com/username5) |
