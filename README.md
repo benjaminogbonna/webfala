@@ -10,7 +10,7 @@
 | <img src="https://github.com/username4.png" width="50"> | Abiola | Role | [@username4](https://github.com/username4) |
 | <img src="https://github.com/username5.png" width="50"> | Damilola | Role | [@username5](https://github.com/username5) |
 | <img src="https://github.com/username6.png" width="50"> | Carina | Role | [@username6](https://github.com/username6) |
-| <img src="https://github.com/username7.png" width="50"> | Funmi | Role | [@username7](https://github.com/username7) |
+| <img src="https://github.com/Funmiintech.png" width="50"> |Ajagun Oluwafunmilayo | bookmark | [Funmiintech](https://github.com/Funmiintech) |
 | <img src="https://github.com/username8.png" width="50"> | Halimat | Role | [@username8](https://github.com/username8) |
 | <img src="https://github.com/username9.png" width="50"> | Hannah | Role | [@username9](https://github.com/username9) |
 | <img src="https://github.com/username10.png" width="50"> | Arafat | Role | [@username10](https://github.com/username10) |
