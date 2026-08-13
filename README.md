@@ -17,9 +17,9 @@
 | <img src="https://github.com/username11.png" width="50"> | Zainab S | Role | [@username11](https://github.com/username11) |
 | <img src="https://github.com/username12.png" width="50"> | Loveth | Role | [@username12](https://github.com/username12) |
 | <img src="https://github.com/username13.png" width="50"> | Nofisat | Role | [@username13](https://github.com/username13) |
-| <img src="https://github.com/username14.png" width="50"> | Esther O | Role | [@username14](https://github.com/username14) |
-| <img src="https://github.com/username15.png" width="50"> | Tomi | Role | [@username15](https://github.com/username15) |
-| <img src="https://github.com/omololafalusi17-star.png" width="50"> | Omolola Falusi| Services | [@omololafalusi17-star](https://github.com/omololafalusi17-star) |
+| <img src="https://github.com/olanrewajuesther3319.png" width="50"> | Esther Olanrewaju | vendors | [@olanrewajuesther3319](https://github.com/olanrewajuesther3319) |
+| <img src="https://github.com/Olasehindejesutomi.png" width="50"> | Olasehindejesutomi | history| [@Olasehindejesutomi](https://github.com/Olasehindejesutomi) |
+| <img src="https://github.com/username16.png" width="50"> | Lola | Role | [@username16](https://github.com/username16) |
 | <img src="https://github.com/owolabizainab.png" width="50"> | Zainab Owolabi | Product_detail | [@owolabizainab](https://github.com/owolabizainab) |
 | <img src="https://github.com/username18.png" width="50"> | Rahmat | Role | [@username18](https://github.com/username18) |
 | <img src="https://github.com/username17.png" width="50"> | Zainab O | Role | [@username17](https://github.com/username17) |
