@@ -15,8 +15,7 @@
 | <img src="https://github.com/username9.png" width="50"> | Hannah | Role | [@username9](https://github.com/username9) |
 | <img src="https://github.com/ibrahim-182000.png" width="50"> | Arafat | Home | [@ibrahim-182000](https://github.com/ibrahim-182000) |
 | <img src="https://github.com/username11.png" width="50"> | Zainab S | Role | [@username11](https://github.com/username11) |
-| <img src="https://github.com/okukunofisat007.png" width="50"> | Nofisat Okuku | Search | [@okukunofisat007](https://github.com/okukunofisat007) |
-| <img src="https://github.com/lovethesther.png" width="50"> | Obajemu Loveth | Supply | [@lovethesther](https://github.com/lovethesther) |
+| <img src="https://github.com/username12.png" width="50"> | Loveth | Role | [@username12](https://github.com/username12) |
 | <img src="https://github.com/username13.png" width="50"> | Nofisat | Role | [@username13](https://github.com/username13) |
 | <img src="https://github.com/olanrewajuesther3319.png" width="50"> | Esther Olanrewaju | vendors | [@olanrewajuesther3319](https://github.com/olanrewajuesther3319) |
 | <img src="https://github.com/Olasehindejesutomi.png" width="50"> | Olasehindejesutomi | history| [@Olasehindejesutomi](https://github.com/Olasehindejesutomi) |
