@@ -8,3 +8,5 @@ def update_inventory():
 
 def new_inventory():
     pass
+
+print("Testing git reevert")
