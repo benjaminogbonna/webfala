@@ -3,3 +3,5 @@ def checkouts():
     print(f'Checkouts successful!')
 def confirm_checkouts():
     print("Checkouts confirmed")
+def validate_checkouts():
+    print("validated")
