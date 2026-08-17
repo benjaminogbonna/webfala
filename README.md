@@ -16,7 +16,7 @@
 | <img src="https://github.com/username10.png" width="50"> | Arafat | Role | [@username10](https://github.com/username10) |
 | <img src="https://github.com/username11.png" width="50"> | Zainab S | Role | [@username11](https://github.com/username11) |
 | <img src="https://github.com/username12.png" width="50"> | Loveth | Role | [@username12](https://github.com/username12) |
-| <img src="https://github.com/okukunofisat007.png" width="50"> | Nofisat Okuku | Search | [@okukunofisat007](https://github.com/okukunofisat007) |
+| <img src="https://github.com/okukunofisat007.png" width="50"> | Nofisat Okuku |Search | [@okukunofisat007](https://github.com/okukunofisat007) |
 | <img src="https://github.com/username14.png" width="50"> | Esther O | Role | [@username14](https://github.com/username14) |
 | <img src="https://github.com/username15.png" width="50"> | Tomi | Role | [@username15](https://github.com/username15) |
 | <img src="https://github.com/username16.png" width="50"> | Lola | Role | [@username16](https://github.com/username16) |
