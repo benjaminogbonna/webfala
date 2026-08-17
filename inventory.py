@@ -9,4 +9,4 @@ def update_inventory():
 def new_inventory():
     pass
 
-print("new commit")
+print("Testing git reevert")
