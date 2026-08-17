@@ -13,6 +13,3 @@ def validate_token(token):
         return True
     else:
         return False
-
-
-print("Dummy Print statement")
