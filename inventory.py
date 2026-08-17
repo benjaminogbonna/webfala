@@ -5,3 +5,6 @@ def inventory():
 def update_inventory():
     print("click the link to update the inventory status")
     print("Check it out")
+
+def new_inventory():
+    pass
