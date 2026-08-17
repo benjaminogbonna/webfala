@@ -4,3 +4,6 @@ def delivery(details):
 
 def delivery_details():
     print(details)
+
+
+print("This is just for practice sake")
