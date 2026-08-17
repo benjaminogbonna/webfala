@@ -4,3 +4,5 @@ def logout(name):
     print(f"Thank you for shopping with Women in AI!{name}")
 
     print("This is just a test")
+
+    print("This is the second  test")
