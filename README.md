@@ -12,17 +12,6 @@
 | <img src="https://github.com/carinaigbodor0-max.png" width="50"> | Carina | Delivery | [@carinaigbodor0-max](https://github.com/carinaigbodor0-max) |
 | <img src="https://github.com/Funmiintech.png" width="50"> | Ajagun Funmi | Bookmark | [@Funmiintech](https://github.com/Funmiintech) |
 | <img src="https://github.com/Hally-Bella.png" width="50"> | Manzuma Halimat Jumai | Logout | [@Hally-Bella](https://github.com/Hally-Bella) |
-<<<<<<< HEAD
-| <img src="https://github.com/username9.png" width="50"> | Hannah | Role | [@username9](https://github.com/username9) |
-| <img src="https://github.com/username10.png" width="50"> | Arafat | Role | [@username10](https://github.com/username10) |
-| <img src="https://github.com/Jawziyyah.png" width="50"> | Zainab Sogbade | Cart | [@Jawziyyah](https://github.com/Jawziyyah) |
-| <img src="https://github.com/username12.png" width="50"> | Loveth | Role | [@username12](https://github.com/username12) |
-| <img src="https://github.com/username13.png" width="50"> | Nofisat | Role | [@username13](https://github.com/username13) |
-| <img src="https://github.com/username14.png" width="50"> | Esther O | Role | [@username14](https://github.com/username14) |
-| <img src="https://github.com/Olasehindejesutomi.png" width="50"> | Olasehindejesutomi | history| [@Olasehindejesutomi](https://github.com/Olasehindejesutomi) |
-| <img src="https://github.com/username16.png" width="50"> | Lola | Role | [@username16](https://github.com/username16) |
-| <img src="https://github.com/username17.png" width="50"> | Zainab O | Role | [@username17](https://github.com/username17) |
-=======
 | <img src="https://github.com/hannahamusan.png" width="50"> | Hannah Amusan | Payment | [@hannahamusan](https://github.com/hannahamusan) |
 | <img src="https://github.com/ibrahim-182000.png" width="50"> | Arafat Ibrahim | Home | [@ibrahim-182000](https://github.com/ibrahim-182000) |
 | <img src="https://github.com/Jawziyyah.png" width="50"> | Zainab Sogbade | Cart | [@Jawziyyah](https://github.com/Jawziyyah) |
@@ -32,7 +21,6 @@
 | <img src="https://github.com/Olasehindejesutomi.png" width="50"> | Olasehindejesutomi | History| [@Olasehindejesutomi](https://github.com/Olasehindejesutomi) |
 | <img src="https://github.com/omololafalusi17-star.png" width="50"> | Falusi Omolola | Services | [@omololafalusi17-star](https://github.com/omololafalusi17-star) |
 | <img src="https://github.com/owolabizainab.png" width="50"> | Zainab Owolabi | Product_detail | [@owolabizainab](https://github.com/owolabizainab) |
->>>>>>> main
 | <img src="https://github.com/Rahma-cloud.png" width="50"> | Rahmat Folorunsho | Downloads | [@Rahma-cloud](https://github.com/Rahma-cloud) |
 | <img src="https://github.com/rhodainnocent.png" width="50"> | Rhoda Innocent | Inventory | [@rhodainnocent](https://github.com/rhodainnocent) |
 | <img src="https://github.com/salamatsaheed-ux.png" width="50"> | Salamat Saheed | Checkouts | [@salamatsaheed-ux](https://github.com/salamatsaheed-ux) |
