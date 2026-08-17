@@ -4,3 +4,5 @@ def contact():
 def update_contact():
     """ this page shows the new contact details"""
     print("Current contact details")
+
+    print("Use the current contact details.")
