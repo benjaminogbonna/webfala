@@ -5,7 +5,8 @@
 | Avatar | Name | Role | GitHub |
 |--------|------|------|--------|
 | <img src="https://github.com/benjaminogbonna.png" width="50"> | Benjamin Ogbonna | Lead | [@benjaminogbonna](https://github.com/benjaminogbonna) |
-| <img src="https://github.com/alaojemilah.png" width="50"> | Alao Jemilah  | Contact | [@alaojemilah](https://github.com/alaojemilah) |
+| <img src="
+https://github.com/alaojemilah.png" width="50"> | Alao Jemilah  | Contact | [@alaojemilah](https://github.com/alaojemilah) |
 | <img src="https://github.com/atandaadeola.png" width="50"> | Adeola Atanda| LogIn | [@atandaadeola](https://github.com/atandaadeola) |
 | <img src="https://github.com/ayeniabiola.png" width="50"> | Ayeni Abiola | Orders | [@ayeniabiola](https://github.com/ayeniabiola) |
 | <img src="https://github.com/bamideledamilola19-bam.png" width="50"> | Bamidele Damilola | About | [@bamideledamilola19-bam](https://github.com/bamideledamilola19-bam) |
